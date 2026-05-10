@@ -130,9 +130,9 @@ Este programa fue desarrollado como parte de las actividades del módulo de **Pr
 
 ## 👤 Autor
 
-**Marvin** — Ingeniero en Sistemas, Electrónica y Electromecánica  
+Marvin Valdez Ingeniero en Sistemas, Electronica y Electromecanica | Redes | Ciberseguridad | IA
 GitHub: [@gessniio](https://github.com/gessniio)  
-Plataforma educativa: **AUTENTICA_4**
+Plataforma educativa: **AUTENTICA_MODULO2 / BLOQUE 2 / SEGUNDO SEMESTRE (ESTRUCTURA DE DATOS)**
 
 ---
 
