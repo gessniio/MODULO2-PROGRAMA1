@@ -1,6 +1,6 @@
 # 🖥️ Sistema de Gestión de Sesiones — PAD-Bienestar / SIG-Conecta
 
-> Sistema en C para el registro y control de sesiones activas en puntos de acceso digital comunitarios del proyecto SIG-Conecta.
+> Sistema en C y C++ para el registro y control de sesiones activas en puntos de acceso digital comunitarios del proyecto SIG-Conecta.
 
 ---
 
@@ -29,6 +29,7 @@ El programa utiliza una **lista enlazada dinámica** en C para registrar, elimin
 ```
 pad-bienestar/
 │
+├── sesiones.c++      # Código fuente principal
 ├── sesiones.c        # Código fuente principal
 └── README.md         # Este archivo
 ```
