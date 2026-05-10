@@ -73,7 +73,7 @@ Al ejecutar el programa verás el siguiente menú:
 
 ```
   +------------------------------------------+
-  |       SISTEMA - MARVIN / MAYRA           |
+  |             SISTEMA - MARVIN /           |
   +------------------------------------------+
   |  1. Dar de alta una sesion               |
   |  2. Dar de baja una sesion               |
